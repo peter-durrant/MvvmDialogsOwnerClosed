@@ -2,6 +2,8 @@
 
 This project demonstrates a memory leak in a particular usage scenario when using [MvvmDialogs](https://github.com/FantasticFiasco/mvvm-dialogs).
 
+Link to [Issue 122](https://github.com/FantasticFiasco/mvvm-dialogs/issues/122).
+
 ## Scenario
 
 1. Items are added to a list and older items are removed to maintain the list size.
