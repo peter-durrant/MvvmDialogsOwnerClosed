@@ -17,6 +17,6 @@ Build the demo WPF application contained in the solution [MvvmDialogOwnerClosed.
 
 1. The application starts with 3 items in the list.
 1. Pressing the "Add Item" button will add a new item to the list.
-1. When the number of items exceeds 5, the oldest item in the list is removed.
+1. When the number of items exceeds 5, the oldest item in the list is removed [ContainerVm.cs](MvvmDialogOwnerClosed/ContainerVm.cs).
 1. Pressing the "Update Invocation List" will show the number of `OwnerClosed` invocations registered. There will be 3 intially plus 1 for each item added. No invocations are removed.
 1. The invocations are identified calling `UpdateInvocationList` in [ContainerView.xaml.cs](MvvmDialogOwnerClosed/ContainerView.xaml.cs).
