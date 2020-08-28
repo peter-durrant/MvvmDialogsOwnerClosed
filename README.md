@@ -2,7 +2,7 @@
 
 This project demonstrates a memory leak in a particular usage scenario when using [MvvmDialogs](https://github.com/FantasticFiasco/mvvm-dialogs).
 
-Link to [Issue 122](https://github.com/FantasticFiasco/mvvm-dialogs/issues/122).
+Link to [Issue 122](https://github.com/FantasticFiasco/mvvm-dialogs/issues/122). Issue fixed in 7.1.1.
 
 ## Scenario
 
